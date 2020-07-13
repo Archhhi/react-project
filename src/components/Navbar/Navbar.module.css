@@ -1,0 +1,17 @@
+nav.navbar {
+    float: left;
+    margin-left: 15%;
+    width: 250px;
+    height: 100%;
+    background-color: bisque;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    color: black;
+    line-height: 2em;
+    text-decoration: none;
+}
