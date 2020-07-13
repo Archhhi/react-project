@@ -1,47 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d79d9d4b3f9e597a8111d70ebd080cef",
+    "revision": "4db43f532afa176fdb8247a990e943c1",
     "url": "/react-project/index.html"
   },
   {
-    "revision": "0992e5534ef9e1166c9c",
-    "url": "/react-project/static/css/4.4a5d517c.chunk.css"
+    "revision": "1bd8879d1b8ec82fe3a2",
+    "url": "/react-project/static/css/3.93c8fbb4.chunk.css"
   },
   {
-    "revision": "b699ca7e42e621691387",
-    "url": "/react-project/static/css/5.f179d09c.chunk.css"
+    "revision": "3d5e28d56600fa816a6e",
+    "url": "/react-project/static/css/main.3a01548f.chunk.css"
   },
   {
-    "revision": "e0941a995a361df63fde",
-    "url": "/react-project/static/css/main.aa9b564d.chunk.css"
-  },
-  {
-    "revision": "7d01df57a4cef40026d5",
-    "url": "/react-project/static/js/0.19df4c8f.chunk.js"
-  },
-  {
-    "revision": "3ad03aaf1ac0b1f4228b",
-    "url": "/react-project/static/js/3.c006fabb.chunk.js"
+    "revision": "f7ce2994cf7d51f026a8",
+    "url": "/react-project/static/js/2.d0e3cf5d.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/react-project/static/js/3.c006fabb.chunk.js.LICENSE.txt"
+    "url": "/react-project/static/js/2.d0e3cf5d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0992e5534ef9e1166c9c",
-    "url": "/react-project/static/js/4.79e610b9.chunk.js"
+    "revision": "1bd8879d1b8ec82fe3a2",
+    "url": "/react-project/static/js/3.f88919be.chunk.js"
   },
   {
-    "revision": "b699ca7e42e621691387",
-    "url": "/react-project/static/js/5.7d420882.chunk.js"
+    "revision": "3d5e28d56600fa816a6e",
+    "url": "/react-project/static/js/main.d19a37c3.chunk.js"
   },
   {
-    "revision": "e0941a995a361df63fde",
-    "url": "/react-project/static/js/main.beba8f6c.chunk.js"
-  },
-  {
-    "revision": "cfcbbd686c66798a0b14",
-    "url": "/react-project/static/js/runtime-main.b2f4bee2.js"
+    "revision": "43a76207d2ea185a1a6c",
+    "url": "/react-project/static/js/runtime-main.40c5b83f.js"
   },
   {
     "revision": "4ac030d69e58355914f9643ec1041d5a",
